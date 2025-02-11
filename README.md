@@ -66,7 +66,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👥 Authors & Acknowledgments
-- **[Your Name]** - Developer
+- **Abhishek Londhe** - Developer
 - Thanks to **LangChain** & **Google Gemini AI** for enabling this project!
 
 ---
